@@ -19,3 +19,4 @@ filelock
 pycrypto
 pyflakes
 pytest-mock
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
